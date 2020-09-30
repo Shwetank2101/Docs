@@ -1,7 +1,7 @@
 # Docs
 Python based GUI.
 Used module - Tkinter.
-Generates railway ticket.
+Generates Railway Ticket.
 Creates an account which allows modifictaion also using a password set up by the user.
 Asks basic details of the user required for ticket.
 Completely offline project therefore manual.
